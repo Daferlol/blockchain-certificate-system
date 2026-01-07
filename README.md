@@ -1,4 +1,4 @@
-# 📜 Blockchain Certificate System
+#  Blockchain Certificate System
 
 Decentralized system to issue and verify academic certificates using Solidity and Smart Contracts on Ethereum.
 
